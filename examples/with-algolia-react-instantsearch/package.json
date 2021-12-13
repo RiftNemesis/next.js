@@ -12,7 +12,7 @@
     "next": "latest",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-instantsearch": "beta",
+    "react-instantsearch": "6.15.0",
     "react-instantsearch-theme-algolia": "beta",
     "style-loader": "^0.17.0"
   }
