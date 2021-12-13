@@ -19,7 +19,7 @@
     "bcrypt": "3.0.7",
     "cookie": "0.4.0",
     "graphql": "^14.0.2",
-    "graphql-tag": "2.10.1",
+    "graphql-tag": "2.12.6",
     "jsonwebtoken": "8.5.1",
     "next": "latest",
     "prop-types": "^15.6.2",
