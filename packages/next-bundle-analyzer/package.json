@@ -8,6 +8,12 @@
     "directory": "packages/next-bundle-analyzer"
   },
   "dependencies": {
-    "webpack-bundle-analyzer": "3.6.1"
-  }
+    "webpack-bundle-analyzer": "3.6.1",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
